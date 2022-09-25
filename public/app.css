@@ -1,0 +1,10 @@
+article {
+    margin: 3rem 0;
+    border-bottom: 1px solid #333;
+}
+.content{
+    margin-top: 1rem;
+}
+.content p{
+    font-size: 14px;
+}
